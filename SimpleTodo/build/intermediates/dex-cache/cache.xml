@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_f4d1ee99219bd0a56f6dbf1bda6a35eb3b2826ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d4c703f7547ffae6f1bea7d2687779c49a165354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_211b8cf9c261d8a7a0cced14c1f6617c7883a1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_1264609bf59ee0579e75a31a1cb6d2927c316aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_bd24aab075551562c9e09c9358529386ae339077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2190b4ee4010a2da308dfd466c0d3e6ad96298f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_53b24ec23a0937683e937bf4fd122a3d54283a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_525908231014d972f8b328119c2186059cdba463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_369f0e092299b6d0a88838638294cab75e670bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_939a20c233ade3dcad0ab4341ea91a886a8f7cd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_1e15a75410d72aca8fc98fbbdd406bac110f5cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bdc5417ac6902d174bff65a59eea37a844b7bb45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e88d02b5387744c111080924980d2f5b01ecf534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bdc5417ac6902d174bff65a59eea37a844b7bb45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_53b24ec23a0937683e937bf4fd122a3d54283a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_1264609bf59ee0579e75a31a1cb6d2927c316aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_f1113b8d2457864ea6f3cf03f91fce4d6a5b1871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_525908231014d972f8b328119c2186059cdba463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2190b4ee4010a2da308dfd466c0d3e6ad96298f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="311e817eb9f4a869e93e8b828b90b0b0e0b23510">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8a1310e1c956525a810aca3fe828c43666e7ea2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_211b8cf9c261d8a7a0cced14c1f6617c7883a1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_688c9c56d0d43933834dcc85cb4f1ee1872509e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_bd24aab075551562c9e09c9358529386ae339077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_369f0e092299b6d0a88838638294cab75e670bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_f4d1ee99219bd0a56f6dbf1bda6a35eb3b2826ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d4c703f7547ffae6f1bea7d2687779c49a165354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_1e15a75410d72aca8fc98fbbdd406bac110f5cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_688c9c56d0d43933834dcc85cb4f1ee1872509e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_939a20c233ade3dcad0ab4341ea91a886a8f7cd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_f1113b8d2457864ea6f3cf03f91fce4d6a5b1871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9233da862f2afa686dff227a319f37199f9d66cc">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\instant-run_c89aaf563091553c43161b6f6ab669061006d764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Alfonso\AndroidStudioProjects\SimpleTodo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e88d02b5387744c111080924980d2f5b01ecf534.jar" />
+    </item>
+
+</items>
